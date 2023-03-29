@@ -274,6 +274,65 @@ h1{
   }
   
   }
+@media  screen and (min-width:420px) {
+    .base{
+      height: 285px;
+    }
+      .logo{
+      margin-left: 120px;
+      margin-right: 50px;
+      width: 180px;
+      height: 180px;
+    }
+    .btn_exb{
+        margin-top: 0px;
+        width: 85px;
+        font-size: 10px;
+        margin-left: 10px;
+    }
+      #pesq{
+      margin-top: 5px;
+      margin-left: 10px;
+      width: 370px;
+    }
+  
+  .icones_exibiçao,.icones_exibiçao2{
+      height: auto;
+  }
+  .pr{
+      height: 150px;
+      margin:auto;
+      margin-top: 10px;
+      margin-left: 10px;
+      margin-right: 0px;
+  }
+  .esq,.esq2{
+      height: 50px;
+      width: 50px;
+      margin-left: 10px;
+ 
+      margin-top: 60px;
+  }
+  .drt{
+      height: 50px;
+      width: 50px;
+      margin-top: 60px;
+  }
+  .drt2{
+      margin-left: 5px;
+      height: 50px;
+      width: 50px;
+      margin-top: 60px;
+  }
+  .exb{
+      width: 390px;
+      margin-left: 5px;
+  }
+  .amostra{
+      margin-left: 100px;
+  }
+  
+  }
   @media  screen and (min-width:430px) {
     .base{
       height: 285px;
