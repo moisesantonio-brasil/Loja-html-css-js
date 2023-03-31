@@ -155,33 +155,33 @@ h1{
     margin-left: 90px;
     margin-top: 5px;
 }
-@media  screen and (min-width:390px) {
+@media  screen and (min-width:300px) {
     .base{
       height: 285px;
     }
       .logo{
-      margin-left: 120px;
-      margin-right: 20px;
+      margin-left: 60px;
+      margin-right: 10px;
       width: 150px;
       height: 150px;
     }
     .btn_exb{
         margin-top: 0px;
-        width: 80px;
-        font-size: 10px;
-        margin-left: 10px;
+        width: 100px;
+        font-size: 12px;
+        margin-left: 25px;
     }
       #pesq{
       margin-top: 5px;
       margin-left: 10px;
-      width: 350px;
+      width: 270px;
     }
   
   .icones_exibiçao,.icones_exibiçao2{
       height: auto;
   }
   .pr{
-      height: 150px;
+      height: 110px;
       margin:auto;
       margin-top: 10px;
       margin-left: 10px;
@@ -189,28 +189,28 @@ h1{
   }
   .esq,.esq2{
       height: 50px;
-      width: 50px;
+      width: 30px;
       margin-left: 10px;
  
-      margin-top: 60px;
+      margin-top: 40px;
   }
   .drt{
       height: 50px;
-      width: 50px;
-      margin-top: 60px;
+      width: 30px;
+      margin-top: 40px;
   }
   .drt2{
       margin-left: 5px;
       height: 50px;
-      width: 50px;
-      margin-top: 60px;
+      width: 30px;
+      margin-top: 40px;
   }
   .exb{
-      width: 365px;
+      width: 275px;
       margin-left: 5px;
   }
   .amostra{
-      margin-left: 100px;
+      margin-left: 70px;
   }
   
   }
@@ -266,16 +266,15 @@ h1{
       margin-top: 60px;
   }
   .exb{
-      width: 400px;
+      width: 380px;
       margin-left: 5px;
   }
   .amostra{
       margin-left: 100px;
   }
-  .exibir{
-      margin:2px;
+  
   }
-@media  screen and (min-width:420px) {
+  @media  screen and (min-width:420px) {
     .base{
       height: 285px;
     }
@@ -326,7 +325,7 @@ h1{
       margin-top: 60px;
   }
   .exb{
-      width: 410px;
+      width: 390px;
       margin-left: 5px;
   }
   .amostra{
