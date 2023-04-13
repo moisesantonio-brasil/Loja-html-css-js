@@ -1,4 +1,4 @@
 # loja
 loja com css responsivo
 
-https://moisesantonio-brasil.github.io/loja/loja.html
+https://moisesantonio-brasil.github.io/loja-html-css/loja.html
